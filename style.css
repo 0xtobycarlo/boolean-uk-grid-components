@@ -1,14 +1,11 @@
 * {
     box-sizing: border-box;
+    gap: 5px;
 }
 
 body {
     margin: 0;
 }
-
-* {
-    gap: 5px;
-  }
   
   .container {
     padding: 8px;
